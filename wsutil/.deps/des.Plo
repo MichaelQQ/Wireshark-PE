@@ -1,0 +1,10 @@
+des.lo: des.c /usr/include/stdc-predef.h ../config.h des.h \
+ ../ws_symbol_export.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:
+
+des.h:
+
+../ws_symbol_export.h:

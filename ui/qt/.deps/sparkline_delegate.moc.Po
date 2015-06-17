@@ -1,0 +1,4 @@
+sparkline_delegate.moc.o: sparkline_delegate.moc.cpp \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

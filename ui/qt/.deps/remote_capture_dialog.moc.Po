@@ -1,0 +1,4 @@
+remote_capture_dialog.moc.o: remote_capture_dialog.moc.cpp \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

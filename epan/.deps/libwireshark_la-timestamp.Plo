@@ -1,0 +1,10 @@
+libwireshark_la-timestamp.lo: timestamp.c /usr/include/stdc-predef.h \
+ ../config.h timestamp.h ../ws_symbol_export.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:
+
+timestamp.h:
+
+../ws_symbol_export.h:

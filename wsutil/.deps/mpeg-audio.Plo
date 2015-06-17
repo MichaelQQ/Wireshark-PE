@@ -1,0 +1,8 @@
+mpeg-audio.lo: mpeg-audio.c /usr/include/stdc-predef.h mpeg-audio.h \
+ ../ws_symbol_export.h
+
+/usr/include/stdc-predef.h:
+
+mpeg-audio.h:
+
+../ws_symbol_export.h:

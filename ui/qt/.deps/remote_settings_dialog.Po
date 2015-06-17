@@ -1,0 +1,6 @@
+remote_settings_dialog.o: remote_settings_dialog.cpp \
+ /usr/include/stdc-predef.h ../../config.h
+
+/usr/include/stdc-predef.h:
+
+../../config.h:

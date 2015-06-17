@@ -1,0 +1,10 @@
+libcaputils_a-iface_monitor.o: iface_monitor.c /usr/include/stdc-predef.h \
+ ../config.h ../wsutil/ws_diag_control.h ../caputils/iface_monitor.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:
+
+../wsutil/ws_diag_control.h:
+
+../caputils/iface_monitor.h:

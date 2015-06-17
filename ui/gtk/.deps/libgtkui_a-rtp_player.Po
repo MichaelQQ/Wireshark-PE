@@ -1,0 +1,6 @@
+libgtkui_a-rtp_player.o: rtp_player.c /usr/include/stdc-predef.h \
+ ../../config.h
+
+/usr/include/stdc-predef.h:
+
+../../config.h:
